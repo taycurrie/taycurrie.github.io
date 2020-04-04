@@ -1,11 +1,11 @@
 # Site settings
-author: sunny-tier-6236
-title: 
+author: Jeffrey currie
+title: Journey to flatiron
 header-img: img/home-bg.png
 email: taycurrie@gmail.com
-copyright_name: sunny-tier-6236
+copyright_name: Jeffrey currie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Reasoning behind the decision 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  taycurrie
